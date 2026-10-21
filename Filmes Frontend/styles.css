@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    font-size: 16px;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 60px;
+    color: darkblue;
+}	
+
+h2{
+    color: goldenrod;
+}
+
+h3{
+    color: darkgreen;
+}
+
+p{
+    line-height: 1.5;
+}
